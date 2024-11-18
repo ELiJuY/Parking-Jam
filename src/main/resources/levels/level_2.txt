@@ -1,0 +1,11 @@
+Second level
+8 8
+++++++++
++a  bbb+
++a  j c+
++** jdc@
++fff dc+
++  h ee+
++gghii +
+++++++++
+

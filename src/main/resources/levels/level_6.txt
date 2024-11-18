@@ -1,0 +1,10 @@
+Sixth level
+8 8
+++++++++
++aa c d+
++bb ced+
++ **fed@
++gghfe +
++i hf  +
++i  jjj+
+++++++++

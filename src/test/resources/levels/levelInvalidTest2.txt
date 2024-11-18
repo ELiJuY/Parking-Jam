@@ -1,0 +1,10 @@
+Test Level
+8 H
+++++++++
++aabbbc+
++   * c+
++d  *  +
++d fff +
++de    +
++ e ggg+
+++++@+++

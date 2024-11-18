@@ -1,0 +1,13 @@
+H
+0
+0
+Initial level
+8 8
+++++++++
++aabbbc+
++   * c+
++d  *  +
++d fff +
++d     +
++ e ggg+
+++++@+++
